@@ -6,4 +6,6 @@ Bu Projeyi Yapma Amacım Bildiklerimi Sürekli Tazelemek İçindir
 
 Bu Proje Rastgele Sayı Ve Harf Üretir Textbox'a Girdikleriniz Ortakilerle Aynı Değilse "Lütfen Tekrar Deneyiniz" Uyarısı Gelir Eğer Doğru Girerseniz "Başarılı Captcha" Sayfasına Yönlendirirsiniz.
 
-# Projeden Görsel
+# Projeden Görsel 
+
+Resim Link : https://www.hizliresim.com/mgxp1j6
